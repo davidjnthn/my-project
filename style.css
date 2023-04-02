@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #846a6a;
+}
+
+.jumbotron {
+  padding-top: 4rem;
+  background-color: #eef0f2;
+}
+
+#myproject {
+  background-color: #d1e3dd;
+}
+
+footer {
+  background-color: #353b3c;
+  text-align: center;
+  padding: 1rem 0;
+  color: #fff;
+}
+
+footer .links a {
+  color: #fff;
+}
+
+.navbar {
+  transition: 0.3s;
+}
